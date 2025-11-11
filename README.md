@@ -1,3 +1,2 @@
-### HI First Commit!
-
-### second commit
+# Git 실습 프로젝트
+이 프로젝트는 Git 명령어 실습을 위한 저장소입니다.
