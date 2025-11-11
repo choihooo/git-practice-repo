@@ -1,1 +1,2 @@
 Initial content
+This is a line from the main branch.
